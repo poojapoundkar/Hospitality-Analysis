@@ -118,7 +118,7 @@ Here is the list of measures:
 **Booking Platforms** – By selecting booking platforms, the marketing team can target their efforts more effectively.
 
 ### Dashboard Created
- [Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjFhMmY2MmEtNzVjOC00NDM4LTg2YTQtMDVjZjJhYzI2OWIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ [Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWEwY2ZjYzctYWJiZS00MTZjLWE2NjktNGYxZjQ4NTAyMGNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Successfully created a comprehensive dashboard using the information and data provided by stakeholders. This dashboard showcases crucial metrics to aid AtliQ Grands' management in improving revenue generations , bookings efficinecy and customer satisfaction.
 
